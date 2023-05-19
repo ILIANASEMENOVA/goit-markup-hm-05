@@ -503,7 +503,7 @@ body {
   position: relative;
   overflow: hidden;
 }
-.olerlay {
+.overlay {
   line-height: 1.5;
   position: absolute;
   top: 0;
